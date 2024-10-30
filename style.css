@@ -11,13 +11,13 @@
   
   /* Define cores de fundo para cada section */
   #secao_ul {
-    background-color: #f0f8ff; /* azul claro */
+    background-color: #54a0e3; /* azul claro */
     padding: 15px;
     border-radius: 8px;
   }
   
   #secao_ol_numerica {
-    background-color: #e6e6fa; /* lavanda */
+    background-color: #494958; /* lavanda */
     padding: 15px;
     border-radius: 8px;
   }

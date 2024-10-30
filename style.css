@@ -1,3 +1,48 @@
 #titulo {
     text-align: center;
 }
+
+/* Estiliza as sections em duas colunas */
+.container-sections {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* duas colunas iguais */
+    gap: 20px; /* espaçamento entre as colunas */
+  }
+  
+  /* Define cores de fundo para cada section */
+  #secao_ul {
+    background-color: #f0f8ff; /* azul claro */
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  #secao_ol_numerica {
+    background-color: #e6e6fa; /* lavanda */
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  #secao_ol_alfaminusculo {
+    background-color: #f5f5dc; /* bege */
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  #secao_ol_alfamaiusculo {
+    background-color: #ffe4e1; /* rosa claro */
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  #secao_ol_alga_romano_minusculo {
+    background-color: #fafad2; /* amarelo claro */
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  #secao_ol_alga_romano_maiusculo {
+    background-color: #e0ffff; /* ciano claro */
+    padding: 15px;
+    border-radius: 8px;
+  }
+  

@@ -2,6 +2,15 @@
     text-align: center;
 }
 
+.estilo_div {
+  display: grid;
+  grid-template-columns: 2fr 2fr; /* duas colunas iguais */
+  gap: 20px; /* espaçamento entre as colunas */
+  font-weight: bolder;
+
+}
+
+
 /* Estiliza as sections em duas colunas */
 .container-sections {
     display: grid;

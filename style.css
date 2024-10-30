@@ -4,7 +4,7 @@
 
 .estilo_div {
   display: grid;
-  grid-template-columns: 1fr 1fr; /* duas colunas iguais */
+  grid-template-columns: 6fr 6fr; /* duas colunas iguais */
   gap: 10px; /* espaçamento entre as colunas */
   font-weight: bolder;
   

@@ -7,7 +7,7 @@
   grid-template-columns: 1fr 1fr; /* duas colunas iguais */
   gap: 10px; /* espaçamento entre as colunas */
   font-weight: bolder;
-
+  padding: 15px;
 }
 
 

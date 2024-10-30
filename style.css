@@ -5,7 +5,7 @@
 /* Estiliza as sections em duas colunas */
 .container-sections {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* duas colunas iguais */
+    grid-template-columns: 2fr 2fr; /* duas colunas iguais */
     gap: 20px; /* espaçamento entre as colunas */
   }
   

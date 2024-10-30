@@ -4,8 +4,8 @@
 
 .estilo_div {
   display: grid;
-  grid-template-columns: 2fr 2fr; /* duas colunas iguais */
-  gap: 20px; /* espaçamento entre as colunas */
+  grid-template-columns: 1fr 1fr; /* duas colunas iguais */
+  gap: 10px; /* espaçamento entre as colunas */
   font-weight: bolder;
 
 }

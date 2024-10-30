@@ -11,37 +11,37 @@
   
   /* Define cores de fundo para cada section */
   #secao_ul {
-    background-color: #54a0e3; /* azul claro */
+    background-color: #54a0e3; 
     padding: 15px;
     border-radius: 8px;
   }
   
   #secao_ol_numerica {
-    background-color: #494958; /* lavanda */
+    background-color: #42424a; 
     padding: 15px;
     border-radius: 8px;
   }
   
   #secao_ol_alfaminusculo {
-    background-color: #f5f5dc; /* bege */
+    background-color: #b2b262; 
     padding: 15px;
     border-radius: 8px;
   }
   
   #secao_ol_alfamaiusculo {
-    background-color: #ffe4e1; /* rosa claro */
+    background-color: #ae7670; 
     padding: 15px;
     border-radius: 8px;
   }
   
   #secao_ol_alga_romano_minusculo {
-    background-color: #fafad2; /* amarelo claro */
+    background-color: #742d5f; 
     padding: 15px;
     border-radius: 8px;
   }
   
   #secao_ol_alga_romano_maiusculo {
-    background-color: #e0ffff; /* ciano claro */
+    background-color: #46b6b6; 
     padding: 15px;
     border-radius: 8px;
   }

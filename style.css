@@ -7,6 +7,7 @@
     display: grid;
     grid-template-columns: 2fr 2fr; /* duas colunas iguais */
     gap: 20px; /* espaçamento entre as colunas */
+    font-weight: bolder;
   }
   
   /* Define cores de fundo para cada section */
@@ -17,7 +18,7 @@
   }
   
   #secao_ol_numerica {
-    background-color: #42424a; 
+    background-color: #7d7d8a; 
     padding: 15px;
     border-radius: 8px;
   }

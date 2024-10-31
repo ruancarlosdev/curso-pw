@@ -3,9 +3,9 @@
 }
 
 .estilo_div {
-  display: grid;
-  grid-template-columns: 3fr 3fr; 
-  gap: 10px; /* espaçamento entre as colunas */
+  display: flex;
+  grid-template-columns: 1fr 1fr; 
+  justify-content: space-around;
   font-weight: bolder;
   
 }

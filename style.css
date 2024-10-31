@@ -10,6 +10,15 @@
   font-weight: bolder;
   
 }
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #4CAF50;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 
 /* Estiliza as sections em duas colunas */

@@ -7,12 +7,12 @@
   gap: 10px;
   justify-content: space-around; 
   font-weight: bolder;
-  
+  display: flex;
 }
 .box {
   width: auto;
   height: auto;
-  background-color: #4CAF50;
+  /* background-color: #4CAF50; */
   color: white;
   display: flex;
   align-items: center;

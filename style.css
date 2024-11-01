@@ -3,10 +3,9 @@
 }
 
 .estilo_div {
-  display: flex;
   grid-template-columns: 1fr 1fr; 
   gap: 10px;
-  justify-content: space-around;
+  /* justify-content: space-around; */
   font-weight: bolder;
   
 }

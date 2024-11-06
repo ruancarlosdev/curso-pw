@@ -24,7 +24,7 @@
 .container-sections {
     display: grid;
     grid-template-columns: 2fr 2fr; /* duas colunas iguais */
-    /*gap: 20px;  espaçamento entre as colunas */
+    gap: 20px; /* espaçamento entre as colunas */
     font-weight: bolder;
   }
   

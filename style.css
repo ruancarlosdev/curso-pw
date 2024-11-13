@@ -69,7 +69,4 @@
     height: auto;
     width: 100%;
     max-width: 500%;
-    transition: transform 0.3s ease;
-    display: block;
-    margin: 0 auto;
   }

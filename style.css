@@ -71,7 +71,7 @@
     max-width: 500%;
   }
 
-.img_logo1 .img_logo2 {
+#img_logo1 #img_logo2 {
   height: 2px;
   width: 2px;
 }

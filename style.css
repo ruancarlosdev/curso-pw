@@ -65,7 +65,13 @@
     border-radius: 8px;
   }
   
-.img_logo1 {
+  #tag_img {
+    height: auto;
+    width: 100%;
+    max-width: 500%;
+  }
+  
+.img_logo1{
   text-align: center;
 }
 

@@ -65,13 +65,11 @@
     border-radius: 8px;
   }
   
-  #tag_img {
-    height: auto;
-    width: 100%;
-    max-width: 500%;
-  }
+.img_logo1 {
+  text-align: center;
+}
 
 .img_logo1, .img_logo2 {
-  height: 200px;
-  width: 200px;
+  height: 50%;
+  width: 50%;
 }

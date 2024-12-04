@@ -87,16 +87,16 @@ body {
 }
 
 
-h3 {
+.h3_questao {
   margin-bottom: 20px;
 }
 
-ol[type="1"] {
+.ol_questao {
   list-style-type: decimal;
   margin: 0 0 20px 20px;
 }
 
-ol[type="I"] {
+.ol_alga {
   list-style-type: upper-roman;
   margin-left: 40px;
 }

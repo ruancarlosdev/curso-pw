@@ -107,7 +107,7 @@ ol[type="I"] {
 
 ol[type="A"] {
   list-style-type: upper-alpha;
-  margin-left: 40px;
+  margin: 0 0 20px 20px;
 }
 
 li {
